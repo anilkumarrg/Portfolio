@@ -7,7 +7,7 @@ body {
     background-repeat: no-repeat;         /* Don't repeat */
     background-position: center center;   /* Keep it centered */
     background-attachment: fixed;         /* Optional: locks background while scrolling */
-    font-family: Arial, sans-serif;
+    font-family: "Black Ops One", system-ui ;
     color: white;                         /* White text for visibility */
 }
 
